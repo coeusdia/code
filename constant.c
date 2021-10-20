@@ -18,6 +18,7 @@ int main()
 	printf("%d\n",c);//输出结果为7
 	printf("%d\n",HUMAN);//输出结果为6
 	printf("%d\n",GOD);//输出结果为5
+	
 	const int a=10;
 	printf("a=%d\n",a);
 	system("pause");
